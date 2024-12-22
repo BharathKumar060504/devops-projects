@@ -1,0 +1,2 @@
+# devops-projects
+setup git
